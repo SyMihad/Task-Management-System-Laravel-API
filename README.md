@@ -41,7 +41,7 @@ This repository contains a **Task Management System** developed with **Laravel**
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/task-management.git
+   git clone https://github.com/SyMihad/Task-Management-System-Laravel-API.git
    cd task-management
    ```
 
